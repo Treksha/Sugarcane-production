@@ -1,2 +1,2 @@
 # Sugarcane-production
-It consist sugarcane production data analysis at global level.
+This project presents a comprehensive analysis of  sugarcane production data at both continent and country levels.
